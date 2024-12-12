@@ -1,0 +1,10 @@
+{
+  "id": "de.maxhenkel:voicechat:1.20.1-2.5.26@jar",
+  "name": "Simple Voice Chat",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7729085,
+    "url": "https://edge.forgecdn.net/files/5907/371/voicechat-forge-1.20.1-2.5.26.jar",
+    "MD5": "e8f40809f3ba23a568cf6a51bc4abf5d"
+  }
+}
