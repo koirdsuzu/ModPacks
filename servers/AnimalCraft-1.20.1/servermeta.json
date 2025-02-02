@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/git/ModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "AnimalCraft (Minecraft 1.20.1)",
+    "description": "AnimalCraft Running Minecraft 1.20.1 (Forge v47.3.0)",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.3.0"
+  },
+  "untrackedFiles": []
+}

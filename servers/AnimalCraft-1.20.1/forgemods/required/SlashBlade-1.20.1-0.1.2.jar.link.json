@@ -1,0 +1,10 @@
+{
+  "id": "mods.flammpfeil:slashblade:0.1.2@jar",
+  "name": "Slash Blade",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3210580,
+    "url": "https://edge.forgecdn.net/files/4937/125/SlashBlade-1.20.1-0.1.2.jar",
+    "MD5": "3318d7730c88d3b1bac0b53465a4c1a8"
+  }
+}

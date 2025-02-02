@@ -1,0 +1,10 @@
+{
+  "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.6@jar",
+  "name": "Farmer's Delight",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 2944818,
+    "url": "https://edge.forgecdn.net/files/5962/797/FarmersDelight-1.20.1-1.2.6.jar",
+    "MD5": "3bedf3198980957b909a2ce41557960d"
+  }
+}

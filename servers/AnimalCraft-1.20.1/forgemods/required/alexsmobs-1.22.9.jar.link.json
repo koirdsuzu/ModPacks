@@ -1,0 +1,10 @@
+{
+  "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+  "name": "Alex's Mobs",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 26350793,
+    "url": "https://edge.forgecdn.net/files/5698/791/alexsmobs-1.22.9.jar",
+    "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+  }
+}

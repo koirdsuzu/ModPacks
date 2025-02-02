@@ -1,0 +1,10 @@
+{
+  "id": "net.optifine:optifine:1.20.1_HD_U_I6@jar",
+  "name": "OptiFine",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 7145205,
+    "url": "https://www.curseforge.com/minecraft/mc-mods/project-963443/download/5041320",
+    "MD5": "7a7982ac06b89dd8c1721ea53a33b768"
+  }
+}
