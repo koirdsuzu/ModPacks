@@ -1,0 +1,10 @@
+{
+  "id": "com.barion:dungeons_enhanced:5.3.0@jar",
+  "name": "Dungeons Enhanced",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1395850,
+    "url": "https://edge.forgecdn.net/files/5893/371/dungeons_enhanced-1.20.1-5.3.0.jar",
+    "MD5": "279f2910b0eef042cc08755244c075d7"
+  }
+}

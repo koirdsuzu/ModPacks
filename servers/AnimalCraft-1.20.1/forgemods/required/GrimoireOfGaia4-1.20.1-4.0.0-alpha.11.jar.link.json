@@ -1,0 +1,10 @@
+{
+  "id": "gaia:grimoireofgaia:4.0.0-alpha.11@jar",
+  "name": "Grimoire of Gaia 4",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3463240,
+    "url": "https://edge.forgecdn.net/files/5678/610/GrimoireOfGaia4-1.20.1-4.0.0-alpha.11.jar",
+    "MD5": "91ebf181427142790454af26c35da89c"
+  }
+}

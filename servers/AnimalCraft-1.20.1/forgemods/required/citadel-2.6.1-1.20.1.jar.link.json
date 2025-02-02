@@ -1,0 +1,10 @@
+{
+  "id": "com.github.alexthe666:citadel:2.6.1@jar",
+  "name": "Citadel",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 3173637,
+    "url": "https://edge.forgecdn.net/files/6002/521/citadel-2.6.1-1.20.1.jar",
+    "MD5": "d7c8be4b34cfd4db20ad1747b122d07c"
+  }
+}

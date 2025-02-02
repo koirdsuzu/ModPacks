@@ -1,0 +1,10 @@
+{
+  "id": "xaero.minimap:xaerominimap:25.0.0@jar",
+  "name": "Xaero's Minimap",
+  "type": "ForgeMod",
+  "artifact": {
+    "size": 1652969,
+    "url": "https://edge.forgecdn.net/files/6116/16/Xaeros_Minimap_25.0.0_Forge_1.20.jar",
+    "MD5": "efacf7403361e7518f4919baaaed6f41"
+  }
+}
