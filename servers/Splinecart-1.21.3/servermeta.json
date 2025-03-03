@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///D:/softdata/git/KPWModPacks/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ジェットコースタークラフト (Minecraft 1.21.3)",
+    "description": "Splinecart Running Minecraft 1.21.3",
+    "icon": "",
+    "address": "",
+    "discord": {
+      "shortId": "",
+      "largeImageText": "",
+      "largeImageKey": ""
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "fabric": {
+    "version": "0.16.10"
+  },
+  "untrackedFiles": []
+}
