@@ -1,7 +1,7 @@
 {
-  "id": "io.github.takusan23:clickmanaita:1.0.0@jar",
-  "name": "ClickManaita",
-  "type": "ForgeMod",
+  "id": "ClickManaita-Forge-1.21-1.0.0.jar",
+  "name": "ClickManaita-Forge-1.21-1.0.0.jar",
+  "type": "File",
   "artifact": {
     "size": 58003,
     "url": "https://mediafilez.forgecdn.net/files/5492/693/ClickManaita-Forge-1.21-1.0.0.jar",
